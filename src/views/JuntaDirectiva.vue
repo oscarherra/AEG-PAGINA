@@ -33,15 +33,15 @@ export default {
   data() {
     return {
       juntaDirectiva: [
-        { id: 1, position: 'Presidencia', name: 'Brandon Fabián Quesada Álvarez', image: '/images/persona.png' },
-        { id: 2, position: 'Vicepresidencia', name: 'Ayda María Fonseca Fonseca', image: '/images/persona.png' },
-        { id: 3, position: 'Tesorería', name: 'Sin Representación', image: '/images/persona.png' },
-        { id: 4, position: 'Secretaría General', name: 'Ericka Alexandra Jimenez Naranjo', image: '/images/persona.png' },
-        { id: 5, position: 'Secretaría de Comunicación', name: 'Maholy Nicole Valle Pereira', image: '/images/persona.png' },
-        { id: 6, position: 'Secretaría de Deportes y Cultura', name: 'Anthony Gerardo Gutiérrez Pizarro', image: '/images/persona.png' },
-        { id: 7, position: 'Fiscalía', name: 'Erick Dilan Viales Ruiz', image: '/images/persona.png' },
-        { id: 8, position: 'Vocalía 1', name: 'Gabriel López Arrieta', image: '/images/persona.png' },
-        { id: 9, position: 'Vocalía 2', name: 'Sin representación', image: '/images/persona.png' },
+        { id: 1, position: 'Presidencia', name: 'Brandon Fabián Quesada Álvarez', image: '@/assets/persona.png' },
+        { id: 2, position: 'Vicepresidencia', name: 'Ayda María Fonseca Fonseca', image: '@/assets/persona.png' },
+        { id: 3, position: 'Tesorería', name: 'Sin Representación', image: '@/assets/persona.png' },
+        { id: 4, position: 'Secretaría General', name: 'Ericka Alexandra Jimenez Naranjo', image: '@/assets/persona.png' },
+        { id: 5, position: 'Secretaría de Comunicación', name: 'Maholy Nicole Valle Pereira', image: '@/assets/persona.png' },
+        { id: 6, position: 'Secretaría de Deportes y Cultura', name: 'Anthony Gerardo Gutiérrez Pizarro', image: '@/assets/persona.png' },
+        { id: 7, position: 'Fiscalía', name: 'Erick Dilan Viales Ruiz', image: '@/assets/persona.png' },
+        { id: 8, position: 'Vocalía 1', name: 'Gabriel López Arrieta', image: '@/assets/persona.png' },
+        { id: 9, position: 'Vocalía 2', name: 'Sin representación', image: '@/assets/persona.png' },
       ],
       cse: [
         { id: 1, position: 'Titular del CSE', name: 'Olger David Urtecho Oporta', image: '/images/persona.png' },
