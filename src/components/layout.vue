@@ -363,7 +363,7 @@ main {
   text-align: justify;
 }
 .parallax {
-  background-image: url("images/asocia.jpg");
+  background-image: url("@/assets/asocia.jpg");
   height: 200px;
   background-attachment: fixed;
   background-position: center 100px;

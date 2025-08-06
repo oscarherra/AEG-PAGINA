@@ -58,7 +58,7 @@ export default {
           title: 'Tribunal Electoral Estudiantil de Guanacaste (TEEG)',
           description:
             'Responsable de garantizar la transparencia y legalidad en los procesos electorales estudiantiles, asegurando la participación democrática de los estudiantes.',
-          image: '/assets/teeg.jpg',
+          image: '@/assets/teeg.jpg',
           route: 'teeg',
         },
         {
@@ -66,7 +66,7 @@ export default {
           title: 'Defensoría Estudiantil (DEFEU)',
           description:
             'La Defensoría Estudiantil Universitaria constituye un órgano esencial de protección y apoyo para los estudiantes. Su función central es velar por la defensa de los derechos estudiantiles, ofreciendo asesoría especializada y acompañamiento integral ante cualquier conflicto, situación o problemática que pueda afectarles en su desarrollo académico y personal dentro del ámbito universitario.',
-          image: '/assets/defeu.jpeg',
+          image: '@/assets/defeu.jpeg',
           route: 'defensoria',
         },
         {
@@ -74,7 +74,7 @@ export default {
           title: 'Asambleístas',
           description:
             'Los representantes estudiantiles que participan en las asambleas de la asociación, proponiendo y tomando decisiones en beneficio del estudiantado.',
-          image: '/assets/AE.png',
+          image: '@/assets/AE.png',
           route: 'asambleistas',
         },
       ],
@@ -84,7 +84,7 @@ export default {
           title: 'Asociaciones de Carreras',
           description:
             'Responsable de garantizar la transparencia y legalidad en los procesos electorales estudiantiles, asegurando la participación democrática de los estudiantes.',
-          image: '/assets/aso.jpg',
+          image: '@/assets/aso.jpg',
           route: 'asociaciones',
         },
       ],

@@ -8,7 +8,7 @@
       <div class="row justify-content-center align-items-center mb-5">
         <div class="col-md-4 text-center">
           <img
-            src="/assets/teeg.jpg"
+            src="@/assets/teeg.jpg"
             alt="Tribunal Electoral Estudiantil"
             class="img-fluid mb-3"
             style="max-height: 300px; object-fit: contain"
